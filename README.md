@@ -1,7 +1,7 @@
 # Hi, I'm Pradyuamn 👋
 
 🎓 Computer Science Engineering Student
-💻 Interested in Data Visualization, AI & Cybersecurity
+💻 Interested in Data Visualization, Data Science & AI
 
 ## 🔹 Skills
 
