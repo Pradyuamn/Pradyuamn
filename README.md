@@ -10,6 +10,7 @@ Python, Pandas, Matplotlib, NumPy, Data Visualization (Tableau, Power BI), Data 
 ## 🔹 Projects
 
 * 🏏 IPL Player Performance Dashboard (Tableau + Python)
+* 📊 Sales Forecasting Business Performance Dashboard
 
 ## 🔹 Currently Learning
 
