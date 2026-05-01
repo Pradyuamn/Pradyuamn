@@ -18,5 +18,4 @@ Python, Pandas, NumPy, Data Visualization (Tableau), Data Cleaning, Excel, MySQL
 
 ## 🔹 Contact
 
-LinkedIn: [Your Link]
-Email: [Your Email]
+LinkedIn:(https://www.linkedin.com/in/pradyuamn-borade-20151428a/)
