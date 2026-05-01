@@ -5,7 +5,7 @@
 
 ## 🔹 Skills
 
-Python, Pandas, NumPy, Data Visualization (Tableau), Data Cleaning, Excel, MySQL
+Python, Pandas, Matplotlib, NumPy, Data Visualization (Tableau), Data Cleaning, Excel, MySQL
 
 ## 🔹 Projects
 
